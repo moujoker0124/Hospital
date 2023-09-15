@@ -36,11 +36,11 @@
 <nav>
     <div class="nav">
         <ul>
-            <li class="PMenu"><a href="/hospital" class="PAMenu">网站首页</a></li>
-            <li class="PMenu"><a href="/hospital/introduction" id="Nav_AMenu0" class="PAMenu" title="医院简介">医院简介</a>
-            <li class="PMenu"><a href="/hospital/service" id="Nav_AMenu1" class="PAMenu" title="患者服务">患者服务</a></li>
-            <li class="PMenu"><a href="/hospital/guide" id="Nav_AMenu2" class="PAMenu" title="就医指南">就医指南</a></li>
-            <li class="PMenu"><a href="/hospital/news" id="Nav_AMenu4" class="PAMenu" title="新闻中心">新闻中心</a></li>
+            <li class="PMenu"><a href="/hospital" class="PAMenu">网站首页123</a></li>
+            <li class="PMenu"><a href="/hospital/introduction" id="Nav_AMenu0" class="PAMenu" title="医院简介">医院简介321</a>
+            <li class="PMenu"><a href="/hospital/service" id="Nav_AMenu1" class="PAMenu" title="患者服务">患者服务456</a></li>
+            <li class="PMenu"><a href="/hospital/guide" id="Nav_AMenu2" class="PAMenu" title="就医指南">就医指南789</a></li>
+            <li class="PMenu"><a href="/hospital/news" id="Nav_AMenu4" class="PAMenu" title="新闻中心">新闻中心012</a></li>
             <li class="PMenu"><a href="/hospital/login" id="Nav_AMenu5" class="PAMenu" title="登录注册">登录注册</a></li>
         </ul>
         <div class="clear"></div>
